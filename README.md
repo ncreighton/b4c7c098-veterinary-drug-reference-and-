@@ -8,6 +8,7 @@ A Discord bot for veterinary teams providing instant drug reference lookups, dos
 3. `python main.py`
 
 
+
 ---
 
 ## Free vs Pro
@@ -28,5 +29,9 @@ A Discord bot for veterinary teams providing instant drug reference lookups, dos
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://flourish86.gumroad.com/l/iiqrz)**
+**[Get Pro Version](https://buy.stripe.com/6oUeVdfXx8Is4pqdI0cZa1k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUeVdfXx8Is4pqdI0cZa1k)
+- [Buy on Gumroad](https://flourish86.gumroad.com/l/iiqrz)
+- [Buy on Whop](https://whop.com/veterinary-drug-reference-and-prescription-management-discord-bot)
 
